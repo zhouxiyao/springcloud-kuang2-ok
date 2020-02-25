@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf57492-bb97-4cc1-a691-34a68ef641d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6sKCh9H39Bl1clx6skq7VuddJ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-config-dept-8001/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17515638" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-config-dept-8001\src" />
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-config-client-3355\src\main\resources" />
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-provider-dept-hystrix-8001\src\main\resources" />
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-provider-dept-hystrix-8001\src\main\java\com\xiyao\springcloud" />
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-consumer-dept-feign\src\main\java\com\xiyao\springcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiyao.springcloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-config-dept-8001" />
+      <recent name="H:\_JavaProjects\SpringCloud_Kuang2\springcloud-provider-dept-8001\src\main\resources\mybatis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DeptProvider_8001">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="springcloud-eureka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="springcloud-eureka" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiyao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiyao.springcloud.DeptProvider_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider_Config_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-dept-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiyao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiyao.springcloud.DeptProvider_Config_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaService_7001 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiyao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiyao.springcloud.EurekaService_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaService_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-EurekaCenter-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiyao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiyao.springcloud.EurekaService_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaService_Config_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiyao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiyao.springcloud.EurekaService_Config_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DeptProvider_8001" />
+        <item itemvalue="Spring Boot.EurekaService_7001" />
+        <item itemvalue="Spring Boot.EurekaService_7001 (1)" />
+        <item itemvalue="Spring Boot.DeptProvider_Config_8001" />
+        <item itemvalue="Spring Boot.EurekaService_Config_7001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20931716" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf57492-bb97-4cc1-a691-34a68ef641d7" name="Default Changelist" comment="" />
+      <created>1582274311858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582274311858</updated>
+      <workItem from="1582274315840" duration="10203000" />
+      <workItem from="1582289197326" duration="1267000" />
+      <workItem from="1582290603213" duration="56750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="74" key="#Project_Structure" timestamp="1582517229024">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="883" y="74" key="#Project_Structure/0.0.1920.1036@0.0.1920.1036" timestamp="1582517229024" />
+    <state x="646" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582614834304">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="646" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1582614834304" />
+    <state x="1391" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1582509705309">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="1391" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1582509705309" />
+    <state x="1007" y="203" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582509640256">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="1007" y="203" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1582509640256" />
+    <state width="1449" height="204" key="GridCell.Tab.0.bottom" timestamp="1582615411333">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411333" />
+    <state width="1449" height="204" key="GridCell.Tab.0.center" timestamp="1582615411332">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411332" />
+    <state width="1449" height="204" key="GridCell.Tab.0.left" timestamp="1582615411332">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411332" />
+    <state width="1449" height="204" key="GridCell.Tab.0.right" timestamp="1582615411333">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411333" />
+    <state width="1449" height="204" key="GridCell.Tab.1.bottom" timestamp="1582615411334">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411334" />
+    <state width="1449" height="204" key="GridCell.Tab.1.center" timestamp="1582615411333">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411333" />
+    <state width="1449" height="204" key="GridCell.Tab.1.left" timestamp="1582615411333">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411333" />
+    <state width="1449" height="204" key="GridCell.Tab.1.right" timestamp="1582615411333">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1449" height="204" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1582615411333" />
+    <state width="1238" height="441" key="GridCell.Tab.2.bottom" timestamp="1582600862761">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1238" height="441" key="GridCell.Tab.2.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1582600862761" />
+    <state width="1238" height="441" key="GridCell.Tab.2.center" timestamp="1582600862760">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1238" height="441" key="GridCell.Tab.2.center/0.0.1920.1036@0.0.1920.1036" timestamp="1582600862760" />
+    <state width="1238" height="441" key="GridCell.Tab.2.left" timestamp="1582600862760">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1238" height="441" key="GridCell.Tab.2.left/0.0.1920.1036@0.0.1920.1036" timestamp="1582600862760" />
+    <state width="1238" height="441" key="GridCell.Tab.2.right" timestamp="1582600862761">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1238" height="441" key="GridCell.Tab.2.right/0.0.1920.1036@0.0.1920.1036" timestamp="1582600862761" />
+    <state x="664" y="110" key="SettingsEditor" timestamp="1582547031304">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="664" y="110" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1582547031304" />
+    <state x="950" y="252" width="675" height="655" key="StructurePopup" timestamp="1582512227525">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="950" y="252" width="675" height="655" key="StructurePopup/0.0.1920.1036@0.0.1920.1036" timestamp="1582512227525" />
+    <state width="623" height="538" key="SwitcherDM" timestamp="1582550617629">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="623" height="538" key="SwitcherDM/0.0.1920.1036@0.0.1920.1036" timestamp="1582550617629" />
+    <state x="557" y="129" width="906" height="783" key="find.popup" timestamp="1582614584137">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="557" y="129" width="906" height="783" key="find.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1582614584137" />
+    <state x="245" y="290" key="new project wizard" timestamp="1582613525840">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="245" y="290" key="new project wizard/0.0.1920.1036@0.0.1920.1036" timestamp="1582613525840" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/xiyao/springcloud/controller/DeptController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
